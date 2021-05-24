@@ -1,2 +1,1 @@
-# GUVI_Projects
-GUVI projects repository
+GUVI projects creation repository
